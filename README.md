@@ -1,6 +1,6 @@
 # Forms.CnC3AudioDeviceFix
 A simple application to help circumvent a problem in Command and Conquer 3 (and expansion) related to Hands-free AG hardware
-<img src="/docs/mainform.png"/>
+<img src="/docs/mainForm.png"/>
 
 Depending on the type of sound hardware present on the machine, the game will choose the Hands-free AG because the game uses the microphone for multiplayer, and depending on the device also, this will cause the game to produce no sound, but it is not the game that procudes no sound, but the device itself preventing audio output trough its main headphone channel due to its Hands-free AG beind 'in use'.
 <img src="/docs/soundsMenu.png"/>

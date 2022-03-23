@@ -14,4 +14,4 @@ Enabling or disabling hardware devices trough c# is not an out of box experience
 
 
 #### Notes
-In order for this application to work, there are four attributes that need to be changed in app.congig, so the program knows where the game is and also what device to look for when disabling/enabling.
+In order for this application to work, there are four attributes that need to be changed in app.config, so the program knows where the game is and also what device to look for when disabling/enabling.
